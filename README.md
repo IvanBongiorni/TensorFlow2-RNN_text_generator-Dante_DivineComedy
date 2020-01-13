@@ -1,4 +1,4 @@
-# TensorFlow 2.0 Text generator on Dante Alighieri's Divine Comedy
+# TensorFlow 2 Text generator on Dante Alighieri's Divine Comedy
 
 This Notebook contains a text generator RNN that was trained on the **Divina Commedia** (the *Divine Comedy*) by **Dante Alighieri**. This is a poem written at the beginning of the XII century. It's hard to explain what it represents for Italian culture: it's without any doubt the main pillar of our national literature, one of the building blocks of modern Italian language, and arguably the gratest poem ever. All modern representations of Hell, Purgatory and Heaven derive from this opera.
 
