@@ -1,0 +1,1 @@
+- text_generator_RNN_00.h5:  first implementation of LSTM Network. Trained for 100 epochs training - created on 2020-01-13
