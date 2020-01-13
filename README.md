@@ -14,6 +14,6 @@ This Neural Network is trained using **Autograph**, one of the best features in 
 
 ## Repository structure
 
-- scraper_Divine_Comedy.py        script to download the Divine Comedy from Wikisource in a format I like
-- DivinaCommedia.txt              raw text
-- RNN_text_generator_00.ipynb     Notebook containing RNN training and examples of text generation
+- **scraper_Divine_Comedy.py**:        script to download the Divine Comedy from Wikisource in a format I like
+- **DivinaCommedia.txt**:              raw text
+- **RNN_text_generator_00.ipynb**:     Notebook containing RNN training and examples of text generation
