@@ -1,12 +1,11 @@
 """
-This script download Dante Alighieri's Divina Commedia and stores it in the
+This script downloads Dante Alighieri's Divina Commedia and stores it in the
 current folder in .txt format.
-It takes sources from Wikisource, in two separate webpages for Canti's titles
-and descriptions and for respective bodies of text. This decision complicated
+It takes sources from two separate Wikisource pages, one for Canti's titles
+and descriptions, one for the respective bodies of text. This decision complicated
 the script but improved formatting.
 
 Final .txt required few manual corrections:
-
 Removing spaces around aphostrophes (') at:
     - Inferno: (II, 89), (III, 19) (VIII, 120), (XVI, 124), (XX, 37)
     - Purgatorio: (VIII, 3)
